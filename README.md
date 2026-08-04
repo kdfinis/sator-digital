@@ -1,7 +1,7 @@
-# Sator Digital (public preview)
+# Redirect stub
 
-Static landing for interim public presence on GitHub Pages.
+This repo only redirects to the real Sator site:
 
-**Live URL:** https://kdfinis.github.io/sator-digital/
+**https://sator-showcase-flow.lovable.app/**
 
-Contact (interim): karlodefinis@gmail.com · WhatsApp +352 621 815 753
+Source: https://github.com/kdfinis/sator-showcase-flow
